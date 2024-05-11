@@ -6,7 +6,7 @@ Essa aplicação demonstra o poder dos embeddings na análise de similaridade en
 
 
 ## **AJUDA**
-Caso você sinta dificuldade em entender algum dos conteudos a seguir recomendo olhar o documento que criei sintetizando os tópicos de Engenharia de Prompt e Manipulação de IAs:
+Caso você sinta dificuldade em entender algum dos conteudos da aplicação recomendo olhar o documento que criei sintetizando os tópicos de Engenharia de Prompt e Manipulação de IAs:
 
 https://docs.google.com/document/d/15er_ycXyRA8rs-qy3Fhtxrxtb8OMkvI8cAtOaiE28bo/edit?usp=sharing
 
